@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate technology learner and full stack web developer. I love turning complex ideas into clean code and constantly exploring new tools to sharpen my skills.
+I am a dedicated technology learner and full stack web developer. I love turning complex ideas into clean code and constantly exploring new tools to sharpen my skills.
 
 - 🔭 **Currently working on:** [Lupos App](https://github.com/DiesSimone/lupos-app) and [Wolfy](https://github.com/DiesSimone/wolfy-bot)
 - 🌱 **Currently scaling my skills in:** React, NodeJS, Express and MongoDB (MERN STACK)
