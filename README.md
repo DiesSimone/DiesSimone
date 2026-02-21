@@ -13,17 +13,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a dedicated technology learner and full stack web developer. I love turning complex ideas into clean code and constantly exploring new tools to sharpen my skills.
 
-- 🔭 **Currently working on:** [Lupos App](https://github.com/DiesSimone/lupos-app) and [Wolfy](https://github.com/DiesSimone/wolfy-bot)
-- 🌱 **Currently scaling my skills in:** React, NodeJS, Express and MongoDB (MERN STACK)
-- 💬 **Ask me about:** Anything technology related, i would love to discuss about it
-- 📫 **How to reach me:** Feel free to [send me an email](mailto:simoneraja06@gmail.com)!
+-  **Currently working on:** [Lupos App](https://github.com/DiesSimone/lupos-app) and [Wolfy](https://github.com/DiesSimone/wolfy-bot)
+-  **Currently scaling my skills in:** React, NodeJS, Express and MongoDB (MERN STACK)
+-  **Ask me about:** Anything technology related, i would love to discuss about it
+-  **How to reach me:** Feel free to [send me an email](mailto:simoneraja06@gmail.com)!
 
 ---
 
-## 🛠 My Tech Stack
+##  My Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,14 +33,6 @@ I am a dedicated technology learner and full stack web developer. I love turning
 
 ---
 
-## ✍️ Featured Projects
-> "The best way to predict the future is to invent it." 
-
+##  Featured Projects
 * [Lupos App](https://github.com/DiesSimone/lupos-app): Web Application to assist humans being more productive
 * [Wolfy](https://github.com/DiesSimone/wolfy-bot): Discord bot for the LUPOS group
-
----
-
-## 📊 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiesSimone&label=Profile%20views&color=0e75b6&style=flat" alt="DiesSimone" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=DiesSimone&theme=onedark" alt="DiesSimone" /></a> </p>
