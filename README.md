@@ -27,7 +27,7 @@ I am a dedicated technology learner and full stack web developer. I love turning
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,python,js,html,css,dotnet,react,nodejs,express,git,docker,mysql,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,c,python,js,ts,html,css,dotnet,react,nodejs,express,git,docker,mysql,linux" />
   </a>
 </p>
 
