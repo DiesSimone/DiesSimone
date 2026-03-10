@@ -33,6 +33,7 @@ I am a dedicated technology learner and full stack web developer. I love turning
 
 ---
 
-##  Featured Projects
+##  Projects & Contributions
+### My Projects
 * [Lupos App](https://github.com/DiesSimone/lupos-app): Web Application to assist humans being more productive
 * [Wolfy](https://github.com/DiesSimone/wolfy-bot): Discord bot for the LUPOS group
