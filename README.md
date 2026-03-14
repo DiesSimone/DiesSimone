@@ -16,7 +16,7 @@
 ##  About Me
 I am a dedicated technology learner and full stack web developer. I love turning complex ideas into clean code and constantly exploring new tools to sharpen my skills.
 
--  **Currently working on:** [Lupos App](https://github.com/DiesSimone/lupos-app) and [Wolfy](https://github.com/DiesSimone/wolfy-bot)
+-  **Currently working on:** [Lupos App](https://github.com/DiesSimone/lupos-app)
 -  **Currently scaling my skills in:** React, NodeJS, Express and MongoDB (MERN STACK)
 -  **Ask me about:** Anything technology related, i would love to discuss about it
 -  **How to reach me:** Feel free to [send me an email](mailto:simoneraja06@gmail.com)!
